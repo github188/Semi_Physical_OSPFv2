@@ -1,0 +1,162 @@
+
+** Sns_Scenarios_begin
+
+
+** Sns_Scenarios_end
+
+
+** Sns_Node_Admin[0]_begin
+
+
+** Sns_Node_Admin[0]_end
+
+
+** Sns_Node_Real[0]_begin
+
+
+** Sns_Node_Real[0]_end
+
+
+** Sns_Node_Virtual[0]_begin
+
+
+** Sns_Node_Virtual[0]_end
+
+
+** Sns_Node_Virtual[0]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[0]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[0]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 113;
+int,numPacketsRoutedForOtherNodes = 1;
+int,numPacketsDeliveredToThisNode = 88;
+int,deliveredPacketTtlTotal = 5544;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[0]-Sns_Model_NetworkIP[0]_end
+
+
+** Sns_Node_Virtual[1]_begin
+
+
+** Sns_Node_Virtual[1]_end
+
+
+** Sns_Node_Virtual[1]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[1]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[1]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 82;
+int,numPacketsRoutedForOtherNodes = 1;
+int,numPacketsDeliveredToThisNode = 46;
+int,deliveredPacketTtlTotal = 2898;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[1]-Sns_Model_NetworkIP[0]_end
+
+
+** Sns_Node_Virtual[2]_begin
+
+
+** Sns_Node_Virtual[2]_end
+
+
+** Sns_Node_Virtual[2]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[2]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[2]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 69;
+int,numPacketsRoutedForOtherNodes = 0;
+int,numPacketsDeliveredToThisNode = 23;
+int,deliveredPacketTtlTotal = 1449;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[2]-Sns_Model_NetworkIP[0]_end
+
+
+** Sns_Node_Virtual[3]_begin
+
+
+** Sns_Node_Virtual[3]_end
+
+
+** Sns_Node_Virtual[3]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[3]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[3]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 69;
+int,numPacketsRoutedForOtherNodes = 0;
+int,numPacketsDeliveredToThisNode = 25;
+int,deliveredPacketTtlTotal = 1575;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[3]-Sns_Model_NetworkIP[0]_end
+
+
+** Sns_Node_Virtual[4]_begin
+
+
+** Sns_Node_Virtual[4]_end
+
+
+** Sns_Node_Virtual[4]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[4]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[4]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 82;
+int,numPacketsRoutedForOtherNodes = 1;
+int,numPacketsDeliveredToThisNode = 47;
+int,deliveredPacketTtlTotal = 2961;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[4]-Sns_Model_NetworkIP[0]_end
+
+
+** Sns_Node_Virtual[5]_begin
+
+
+** Sns_Node_Virtual[5]_end
+
+
+** Sns_Node_Virtual[5]-Sns_Model_OSPFv2[0]_begin
+
+
+** Sns_Node_Virtual[5]-Sns_Model_OSPFv2[0]_end
+
+
+** Sns_Node_Virtual[5]-Sns_Model_NetworkIP[0]_begin
+
+int,numPacketsSentToMac = 69;
+int,numPacketsRoutedForOtherNodes = 0;
+int,numPacketsDeliveredToThisNode = 22;
+int,deliveredPacketTtlTotal = 1386;
+int,numNetworkUnreachableDrops = 0;
+int,numTtlExpirationDrops = 0;
+
+** Sns_Node_Virtual[5]-Sns_Model_NetworkIP[0]_end
+
